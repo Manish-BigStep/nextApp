@@ -1,0 +1,42 @@
+ [
+    {
+        "id": "1",
+        "product": "Apple",
+        "image": "https://thumbs.dreamstime.com/b/red-apple-isolated-clipping-path-19130134.jpg",
+        "cost": 12,
+        "description": "Eat one Apple a day to keep doctor away."
+    },
+  
+    {
+        "id": "2",
+        "product": "Grapes",
+        "image": "https://iheartcraftythings.com/wp-content/uploads/2021/07/9-5.jpg",
+        "cost": 18,
+        "description": "Apples are great but grapes are even better."
+    },
+  
+    {
+        "id": "3",
+        "product": "Mango",
+        "image": "https://image.shutterstock.com/image-photo/ripe-mangoes-isolated-on-white-260nw-139789738.jpg",
+        "cost": 10,
+        "description": "The King of all fruits."
+    },
+  
+    {
+        "id": "4",
+        "product": "PineApple",
+        "image": "https://image.shutterstock.com/image-vector/summer-fruits-healthy-lifestyle-pineapple-260nw-737768248.jpg",
+        "cost": 10,
+        "description": "No pine, No Apple, just a whole lot of PineApple."
+    },
+  
+    {
+      "id": "5",
+      "product": "Orange",
+      "image": "https://5.imimg.com/data5/VN/YP/MY-33296037/orange-600x600-500x500.jpg",
+      "cost": 10,
+      "description": "Orange fruit is always good."
+  }
+  
+]
